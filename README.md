@@ -1,5 +1,5 @@
 # ChargeOverSpeed
-# Magisk Module for Optimize Charging Speed: 
+# Magisk Module to Optimize Charging Speed: 
    Hardcore Edition=Without thermal limit;
    Green Edition   =With battery thermal limit
 
